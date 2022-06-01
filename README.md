@@ -10,17 +10,20 @@ I’ve worked with Golang, Node.js, TypeScript, Python, Prisma JS etc.
 - 👯 I’m looking to collaborate on open source projects 
 - 🤔 I’m looking for help with Engineering Lead roles
 - 💬 Ask me about golang, node js, system architecture and micro services
-- 📫 How to reach me: oyewoleabayomi@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him/His
 
 
 ### TECHNICAL SKILLS
 |  |  |
 | --- | --- |
-| Backend (Web Services) | Golang, NodeJS, Javascript (ES15+/TypeScript), ExpressJs, NestJS, GraphQL. |
-| Data Stores | MySQL, PostgreSQL, MongoDB, SQLite, ElasticSearch, Redis, Firebase |
-| Cloud Services | CI/CD processes, Github Actions, Google Cloud Function, AWS, Azure, Kubernetes, Docker, Jenkins |
-| Test-Driven Development | Mocha, Jasmine, Jest, PHPUnit |
+| Backend (Web Services) | Python, Golang, Javascript (ES15+/TypeScript), NodeJS, ExpressJs, NestJS, GraphQL. |
+| Storages/Databases | MySQL, PostgreSQL, MongoDB, SQLite, ElasticSearch, Redis, Firebase |
+| Cloud Services | Google Cloud Function, AWS, Azure, Kubernetes, Docker |
+| Automation Tools | Jenkins, Circle CI, GitLab CI, Github Workflows |
+
+:mailbox: Reach out to me!
+
+[![Twitter Badge](https://img.shields.io/badge/-zamsoft-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zamsoft)](https://twitter.com/zamsoft) [![Linkedin Badge](https://img.shields.io/badge/-Oyewole%20Abayomi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyewole-abayomi/) [![Mail Badge](https://img.shields.io/badge/-oyewoleabayomi@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oyewoleabayomi@gmail.com)
 
 <!--
 **samsoft00/samsoft00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
