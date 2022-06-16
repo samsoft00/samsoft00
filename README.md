@@ -20,7 +20,18 @@ I’ve worked with Golang, Node.js, TypeScript, Python, Prisma JS etc.
 | Storages/Databases | MySQL, PostgreSQL, MongoDB, SQLite, ElasticSearch, Redis, Firebase |
 | Cloud Services | Google Cloud Function, AWS, Azure, Kubernetes, Docker |
 | Automation Tools | Jenkins, Circle CI, GitLab CI, Github Workflows |
-
+<br/>
+<div>
+  <img src="https://uploads-ssl.webflow.com/61744a74caccc3ff16174249/629c9671d174c61d8e9f3216_React-icon.svg-p-500.png". width="45" size="45" />
+  <img src="https://uploads-ssl.webflow.com/61744a74caccc3ff16174249/629c98427d66dd68b255015f_Postgresql_elephant.svg-p-500.png". width="45" size="45" />
+  <img src="https://uploads-ssl.webflow.com/61744a74caccc3ff16174249/629c963a8192da55777d959f_golang.png" width="37" />
+  <img src="https://uploads-ssl.webflow.com/61744a74caccc3ff16174249/61f4a8582f3939030d9abfe6_Docker-logo-p-500.png" width="60" />
+  <img src="https://uploads-ssl.webflow.com/61744a74caccc3ff16174249/629c9842c8442be25bd63e99_gitlab-ci.png" width="45" />
+  <img src="https://uploads-ssl.webflow.com/61744a74caccc3ff16174249/629c98427d66ddfdf455015e_linux-p-500.png" width="45" sizr="45" />
+  <img src="https://uploads-ssl.webflow.com/61744a74caccc3ff16174249/629c9842e4ddd9787b9178cc_Prometheus_software_logo.svg-p-500.png" width="45" size="45" />
+  <img src="https://uploads-ssl.webflow.com/61744a74caccc3ff16174249/629c98fc203ede8cca50a5da_graph-p-500.png" width="45" size="45" />
+</div>
+<br/>
 :mailbox: Reach out to me!
 
 [![Twitter Badge](https://img.shields.io/badge/-zamsoft-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zamsoft)](https://twitter.com/zamsoft) [![Linkedin Badge](https://img.shields.io/badge/-Oyewole%20Abayomi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyewole-abayomi/) [![Mail Badge](https://img.shields.io/badge/-oyewoleabayomi@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oyewoleabayomi@gmail.com)
