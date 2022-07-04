@@ -20,6 +20,14 @@ I’ve worked with Golang, Node.js, TypeScript, Python, Prisma JS etc.
 | Storages/Databases | MySQL, PostgreSQL, MongoDB, SQLite, ElasticSearch, Redis, Firebase |
 | Cloud Services | Google Cloud Function, AWS, Azure, Kubernetes, Docker |
 | Automation Tools | Jenkins, Circle CI, GitLab CI, Github Workflows |
+
+### OPEN CONTRIBUTIONS
+|  |  |
+| --- | --- |
+| Novu open source notification infrastructure | [https://novu.co](https://github.com/novuhq/novu) |
+| PETER OBI Supporter page | [https://23forobi.com](https://github.com/obidient/23ForObiApi) |
+| NPM Package for Sendstack.africa | [https://www.sendstack.africa](https://github.com/samsoft00/sendstack) |
+
 <br/>
 <div>
   <img src="https://uploads-ssl.webflow.com/61744a74caccc3ff16174249/629c9671d174c61d8e9f3216_React-icon.svg-p-500.png". width="45" size="45" />
