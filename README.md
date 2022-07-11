@@ -25,8 +25,9 @@ I’ve worked with Golang, Node.js, TypeScript, Python, Prisma JS etc.
 |  |  |
 | --- | --- |
 | Novu open source notification infrastructure | [https://novu.co](https://github.com/novuhq/novu) |
-| PETER OBI Supporter page | [https://23forobi.com](https://github.com/obidient/23ForObiApi) |
+| Go-Novu golang package | [https://novu.co](https://github.com/novuhq/go-novu) |
 | NPM Package for Sendstack.africa | [https://www.sendstack.africa](https://github.com/samsoft00/sendstack) |
+| PETER OBI Supporter page | [https://23forobi.com](https://github.com/obidient/23ForObiApi) |
 
 <br/>
 <div>
