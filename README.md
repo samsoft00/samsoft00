@@ -2,8 +2,9 @@
 
 ⚡ About Me: My name is Sam. AWS certified software engineer with 8+ years managing all aspects of the development process from startups to medium-sized companies. Currently, working as a Software Engineer at Inheaden GmbH. Prior to that, I worked as a Software Consultant at Addenda Lab to develop the first blockchain-powered Insurance app in UAE. 
 
-I’ve worked with Golang, Node.js, TypeScript, Python, Prisma JS etc.
+I love working with Golang, Node.js, TypeScript, Python, Prisma JS etc.
 
+![Abayomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsoft00&show_icons=true&count_private=true)
 
 - 🔭 I’m currently working an a very interesting SaaS platform
 - 🌱 I’m currently learning how to be a ninja
