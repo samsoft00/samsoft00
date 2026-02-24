@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ About Me: My name is Abayomi. AWS certified software engineer and automation expert with 8+ years managing all aspects of the development process from startups to medium-sized companies. Currently, working as a Software Engineer at Inheaden GmbH. Prior to that, I worked as a Software Consultant at Addenda Lab to develop the first blockchain-powered Insurance app in UAE. 
+⚡ About Me: My name is Abayomi. AWS certified software engineer and automation expert with 10+ years managing all aspects of the development process from startups to medium-sized companies. Currently, working as a Software Engineer at Inheaden GmbH. Prior to that, I worked as a Software Consultant at Addenda Lab to develop the first blockchain-powered Insurance app in UAE. 
 
 I love working with Golang, Node.js, TypeScript, Python, Prisma JS etc.
 
